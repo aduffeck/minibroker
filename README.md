@@ -56,6 +56,7 @@ To prevent this, it is possible to define override parameters per service in
 the according fields of the `provisioning` chart value. If defined, the
 user-defined parameters are dropped and the override parameters are used
 instead.
+You can read more about override parameters in [the documentation](docs/override-params.md).
 
 ## Installation Options
 * Only Service Catalog Enabled services are included with Minibroker by default,
